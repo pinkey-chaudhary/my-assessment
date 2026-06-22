@@ -5,7 +5,8 @@
  User Registeration,
  User Login,
  User Validation,
- Database Integration,
+ User Dashboard,
+ PostgreSQL Database Integration,
  Session Management
 
  ## HOW TO RUN THE PROJECT

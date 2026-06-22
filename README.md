@@ -30,8 +30,9 @@
  ```
 
  ### DATABASE SETUP
- 1.This project uses PostgreSQL
- 2.Create a databasee named 'userdb':
+ 1. This project uses PostgreSQL
+ 
+ 2. Create a databasee named 'userdb':
 ``` sql
 CREATE DATABASEE userdb;
 ```

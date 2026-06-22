@@ -16,14 +16,14 @@
  npm run all
  ```
 
- ### HOW TO RUN FRONTEND SEPARATELY
+ ### FRONTEND SETUP AND RUN INSTRUCTIONS
  ```bash
  cd front-app--
  npm install
  npm run dev
  ```
 
- ### HOW TO RUN BACKEND SEPARATLEY
+ ### BACKEND SETUP AND RUN INSTRUCTIONS
  ```bash
  cd backend-app
  venv\Scripts\activate

@@ -32,12 +32,14 @@
  ### DATABASE SETUP
  1.This project uses PostgreSQL
  2.Create a databasee named 'userdb':
-... sql
+``` sql
 CREATE DATABASEE userdb;
+```
 3. Open 'main.py' and update the database connection details:
-...python 
+```python 
 DATABASEE_URL =
-"postgresql://postgres:your_passwprd@localhost:5432\userdb"
+"postgresql://postgres:your_password@localhost:5432\userdb"
+```
 
  
 

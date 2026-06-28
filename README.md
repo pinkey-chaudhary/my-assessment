@@ -6,6 +6,7 @@
  User Login,
  User Validation,
  User Dashboard,
+ Dashboard with Invoice Approval Workflow(Pending, Approval, Rejected)
  PostgreSQL Database Integration,
  Session Management
 
@@ -27,7 +28,7 @@
  ```bash
  cd backend-app
  venv\Scripts\activate
- uvicorn main:app --reload
+  python -m uvicorn main:app --reload
  ```
 
  ### DATABASE SETUP

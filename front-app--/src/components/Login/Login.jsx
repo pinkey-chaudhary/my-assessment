@@ -31,7 +31,7 @@ function Login() {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(formData),
-        credentials: 'include' // Attaches session token
+        credentials: 'include' 
       });
       const data = await response.json();
 

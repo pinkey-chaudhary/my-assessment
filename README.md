@@ -2,13 +2,16 @@
  This is user authentication system using React, FastAPI, and PostgreSQL.
 
  # FEATURES
- User Registeration,
- User Login,
- User Validation,
- User Dashboard,
- Dashboard with Invoice Approval Workflow(Pending, Approval, Rejected)
- PostgreSQL Database Integration,
- Session Management
+- User Registeration
+- User Login
+- User Validation
+- User Dashboard
+- Dashboard with Invoice Approval Workflow(Pending, Approval, Rejected)
+- Create Invoice
+- Edit Invoice
+- Reject Invoice
+- PostgreSQL Database Integration
+- Session Management
 
  ## HOW TO RUN THE PROJECT
  ```bash
